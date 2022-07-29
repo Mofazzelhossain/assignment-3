@@ -1,0 +1,21 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+#item_1imge img {
+    height: 500px;
+
+}
+
+.img_dark {
+    filter: brightness(60%);
+}
+
+
+.fa-solid {
+    color: rgb(230, 180, 118);
+}
+
+.footer {
+    height: 400px;
+}
