@@ -13,9 +13,21 @@ body {
 
 
 .fa-solid {
-    color: rgb(230, 180, 118);
+    color: rgb(11, 10, 10);
 }
+
+.font_icon i {
+    color: rgb(202, 127, 53);
+}
+
+
 
 .footer {
     height: 400px;
+}
+
+@media only screen and (max-width: 992px) {
+    .company_section {
+        display: none;
+    }
 }
